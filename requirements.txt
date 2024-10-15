@@ -1,0 +1,4 @@
+langchain==0.0.232
+openai==0.27.8
+SQLAlchemy==2.0.20
+psycopg2-binary==2.9.8

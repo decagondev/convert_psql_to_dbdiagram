@@ -1,0 +1,6 @@
+Table users {
+  id INT [pk, increment]
+  name VARCHAR(100)
+  email VARCHAR(100) [unique]
+  created_at TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+}
