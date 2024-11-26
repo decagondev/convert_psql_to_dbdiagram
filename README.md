@@ -1,2 +1,2 @@
 # convert psql to dbdiagram code
-my new item in the readme.
+My new item in the readme.
